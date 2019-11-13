@@ -1,0 +1,5 @@
+{
+    "sketch": "bluetooth_discovery_with_LCD\\bluetooth_discovery_with_LCD.ino",
+    "board": "arduino:avr:leonardo",
+    "COM": "29"
+}
